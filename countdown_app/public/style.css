@@ -1,0 +1,33 @@
+body {
+    background-color: antiquewhite;
+    margin: 0px;
+
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+    background-color: #fdcb6e;
+    padding: 0.2rem 1.2rem;
+    border-radius: 20% 5% 20% 5%/5% 20% 25% 20%;
+    font-size: 1.5rem;
+}
+h2 {
+    height:1rem;
+    padding: 2rem;
+    margin: 1rem;
+}
+button {
+    margin: 1rem;
+}
+
+.container {
+    text-align: center;
+}
+
+.timeContainer {
+    border: black;
+    text-align: center;
+}
